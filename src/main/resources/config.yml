@@ -1,0 +1,22 @@
+locations:
+  parkour_block: 'world, 0.5, 120, 330.5, 0, 0'
+  spawn: 'world, -187.5, 65, 515.5, -90, 0'
+  tops: 'world, -194.5, 69, 515.5, 0, 0'
+  heads:
+    vk: 'world, -181.5, 64.5, 509.5, 0, 0'
+    ds: 'world, -181.5, 64.5, 521.5, 0, 0'
+  npc:
+    parkour: 'world, -179.5, 64, 532.5, -115, 0'
+    rewards: 'world, -168.5, 64, 497.5, 45, 0'
+    gungame: 'world, -147.5, 64, 497.5, 90, 0'
+    mmorpg: 'world, -145.5, 64, 502.5, 90, 0'
+    oneblock: 'world, -144.5, 64, 507.5, 90, 0'
+    arcadegames: 'world, -143.5, 64, 512.5, 90, 0'
+    skywars: 'world, -143.5, 64, 518.5, 90, 0'
+    bedwars: 'world, -144.5, 64, 523.5, 90, 0'
+    duels: 'world, -145.5, 64, 528.5, 90, 0'
+    eggwars: 'world, -147.5, 64, 533.5, 90, 0'
+    luckywars: 'world, -148.5, 64, 533.5, 90, 0'
+  sheeps:
+    - 'world, -129.5, 62, 485.5, 0, 0'
+    - 'world, -127.5, 63, 568.5, 0, 0'
